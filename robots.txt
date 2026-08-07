@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-j563sb.salamkita.sbs/sitemap.xml
